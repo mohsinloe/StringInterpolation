@@ -1,1 +1,1 @@
-# Auror
+**.Net Version** : 8.0
